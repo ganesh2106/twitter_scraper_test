@@ -10,7 +10,7 @@ OBJECTIVES:
 
 FRAMEWORKS: NODE.JS + GOOGLE CLOUD
 
-LINK TO TWITTER PROFILE: https://twitter.com/meshdotnetapi_1
+LINK TO THE TWEETBOT: https://twitter.com/meshdotnetapi_1
 
 API's:
  - twitter-api-v2
